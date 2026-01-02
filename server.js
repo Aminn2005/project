@@ -12,9 +12,9 @@ app.use(express.json());
 const db = new Client({
   host: "dpg-d4sttleuk2gs73cmuvd0-a.virginia-postgres.render.com",
   port: 5432,
-  user: "shop2005_1y70_user",
-  password: "8udKQRkjdZM5f1sbVhuoiDhW98xX873U",
-  database: "shop2005_1y70",
+  user: "********",
+  password: "********",
+  database: "********",
   ssl: { rejectUnauthorized: false }
 });
 
